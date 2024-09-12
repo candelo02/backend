@@ -1,5 +1,4 @@
 const http = require('http'); 
-
 // Crear un servidor
 const server = http.createServer((req, res) => {
   // Establecer el código de estado y el tipo de contenido de la respuesta
